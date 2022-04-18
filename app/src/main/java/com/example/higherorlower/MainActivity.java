@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             message="lower !!";
         else
         {
-            message="You got me !!";
+            message="You got you !!";
             randomNumberGenerator();  //kinda recurtion !
         }
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
